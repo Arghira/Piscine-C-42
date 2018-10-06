@@ -1,0 +1,2 @@
+  Issued                Expires               Principal
+Sep 18 10:41:47 2018  Sep 18 20:41:50 2018  krbtgt/42.FR@42.FR
